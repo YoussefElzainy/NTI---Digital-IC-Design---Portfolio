@@ -1,9 +1,9 @@
 # NTI Digital IC Design Portfolio
 
-A portfolio documenting my progress throughout the **NTI Digital IC Design course**.
+A portfolio documenting my progress throughout the **NTI Digital IC Design Using FPGA**.
 
 ## Student
-- **Name:** Youssef Hossam Eldeen Mohamed Elzainy Mostafa
+- **Name:** Youssef Hossam Eldeen Mohamed Elzainy Mostafa Elzainy
 - **ID:** 212600
 
 ## About

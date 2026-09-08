@@ -28,11 +28,13 @@ The testbench verifies the driver in both enabled and disabled states and checks
 
 ## Waveform
 
-> Add waveform screenshot here.
+<img width="381" height="228" alt="image" src="https://github.com/user-attachments/assets/9b6c70ff-032b-407e-b970-3c6a484d424f" />
+
 
 ## Transcript
 
-> Add QuestaSim transcript screenshot here.
+<img width="747" height="148" alt="image" src="https://github.com/user-attachments/assets/a459f4b2-bf47-497e-aa8a-cc32ca564100" />
+
 
 ## Files
 

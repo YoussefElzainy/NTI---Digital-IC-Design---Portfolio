@@ -29,11 +29,13 @@ The design was tested using a Verilog testbench covering different input and sel
 
 ### Waveform
 
-_Add waveform screenshot here._
+<img width="410" height="214" alt="image" src="https://github.com/user-attachments/assets/10ad11ef-06e8-42d2-8059-4d051d22e927" />
+
 
 ### Transcript
 
-_Add QuestaSim transcript here._
+<img width="711" height="132" alt="image" src="https://github.com/user-attachments/assets/ccc154e7-38ac-4643-aa5c-7f1183e47302" />
+
 
 ## Files
 

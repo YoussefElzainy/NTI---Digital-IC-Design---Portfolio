@@ -11,11 +11,7 @@ module alu_test;
   wire [WIDTH-1:0] alu_out   ;
 
 
-  alu
-  #(
-    .WIDTH ( WIDTH )
-   )
-  alu_inst
+  alu alu_inst
    (
     .opcode    ( opcode    ),
     .in_a      ( in_a      ),

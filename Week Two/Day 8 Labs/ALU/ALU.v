@@ -1,10 +1,13 @@
-module alu (
-    input [7 : 0] in_a, in_b,
+module alu #(
+    parameter WIDTH = 8
+)(
+    input [WIDTH - 1 : 0] in_a, in_b,
     input [2 : 0] opcode, 
-    output reg [7 : 0] alu_out,
-    output reg a_is_zero
+    output reg [WIDTH - 1 : 0] alu_out,
+    output  a_is_zero
 );
     
+    assign a_is_zero = (in_a == 0);
 
     always @(*) begin
         case (opcode)

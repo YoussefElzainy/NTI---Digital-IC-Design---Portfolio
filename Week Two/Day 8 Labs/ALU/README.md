@@ -35,13 +35,15 @@ The testbench verifies all supported ALU operations using directed test cases an
 
 ## Waveform
 
-> Add waveform screenshot here.
+<img width="519" height="243" alt="image" src="https://github.com/user-attachments/assets/062a8d73-2f5a-4c2b-8b7f-20df3aeb3d48" />
+
 
 ## Transcript
 
 > Add QuestaSim transcript screenshot here.
 
-## Files
+<img width="565" height="218" alt="image" src="https://github.com/user-attachments/assets/5d6f3973-1189-40a3-9dcb-7226f5845be0" />
+
 
 - `ALU.v` – ALU RTL implementation.
 - `alu_test.v` – Testbench used to verify the ALU.

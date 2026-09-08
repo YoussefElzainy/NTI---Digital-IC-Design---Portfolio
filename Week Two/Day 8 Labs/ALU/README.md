@@ -40,8 +40,6 @@ The testbench verifies all supported ALU operations using directed test cases an
 
 ## Transcript
 
-> Add QuestaSim transcript screenshot here.
-
 <img width="565" height="218" alt="image" src="https://github.com/user-attachments/assets/5d6f3973-1189-40a3-9dcb-7226f5845be0" />
 
 

@@ -72,14 +72,10 @@ The testbench verifies:
 
 ## Waveform
 
-> **Waveform screenshot will be added here.**
-
 <img width="1129" height="324" alt="image" src="https://github.com/user-attachments/assets/70240dec-0a99-4dd8-856c-2ff95a5debb4" />
 
 
 ## Simulation Transcript
-
-> **Simulation transcript screenshot will be added here.**
 
 <img width="755" height="190" alt="image" src="https://github.com/user-attachments/assets/ab92f0da-6f45-415f-a8ce-5f89f3cf0626" />
 

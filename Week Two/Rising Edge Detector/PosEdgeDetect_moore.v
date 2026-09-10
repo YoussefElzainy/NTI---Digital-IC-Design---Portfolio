@@ -1,0 +1,54 @@
+module RiseEdgeDetect_moore(
+    input clk, level,
+    output reg tick 
+);
+
+    localparam zero = 2'b00,
+               edg= 2'b01,
+               one  = 2'b10;
+
+    reg [1:0] cs, ns;
+
+    // curret state logic
+    always @(posedge clk) begin
+        cs <= ns;
+    end
+
+    // next state logic 
+    always @(*) begin
+        case (cs)
+            zero: begin
+                if (!level) 
+                    ns = zero;
+                else 
+                    ns = edg;
+                
+            end 
+
+            edg: begin
+                if (!level)
+                    ns = zero;
+                else 
+                    ns = one;
+            end
+
+            one: begin
+                if (!level)
+                    ns = zero;
+                else 
+                    ns = one; 
+            end
+            default: ns = zero;
+        endcase
+    end
+
+    // output logic
+    always @(*) begin
+        if (cs == edg) begin
+            tick = 1;
+        end else begin
+            tick = 0;
+        end
+    end
+
+endmodule

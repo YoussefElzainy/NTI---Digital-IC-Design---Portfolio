@@ -39,9 +39,5 @@ The testbench applies different `level` transitions and checks that `tick` is as
 
 ### Waveform
 
-<!-- Add waveform screenshot here -->
+<img width="1071" height="351" alt="image" src="https://github.com/user-attachments/assets/ff281f60-bf97-4ebe-b1ba-9eecb9465681" />
 
-
-### Transcript
-
-<!-- Add transcript screenshot here -->

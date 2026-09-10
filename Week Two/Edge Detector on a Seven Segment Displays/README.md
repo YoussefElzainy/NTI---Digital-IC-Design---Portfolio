@@ -67,5 +67,6 @@ The testbench applies different input transitions and verifies that the appropri
 
 ### Waveform
 
-<!-- Add waveform screenshot here -->
+<img width="1845" height="443" alt="image" src="https://github.com/user-attachments/assets/fc839096-1622-473b-adf7-5e9f15491b0c" />
+
 

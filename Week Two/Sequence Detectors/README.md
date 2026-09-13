@@ -50,9 +50,8 @@ The testbench instantiates all four sequence detectors and applies the same inpu
 
 ## Waveform
 
-> Waveform screenshot will be added here.
+<img width="1846" height="236" alt="image" src="https://github.com/user-attachments/assets/bb9361ea-208d-46c4-b108-700a77edf768" />
 
-<!-- Add waveform screenshot here -->
 
 ## Tools
 

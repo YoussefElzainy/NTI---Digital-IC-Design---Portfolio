@@ -701,9 +701,15 @@ endmodule
 ## 5. Simulation Results
 
 ### 5.1 Waveforms
+<img width="869" height="318" alt="image" src="https://github.com/user-attachments/assets/5754671f-2fa8-4b48-be25-6cd49b7c933d" />
+<img width="838" height="477" alt="image" src="https://github.com/user-attachments/assets/09273bda-ecfe-4eb8-b9b9-dc4891a78f95" />
+<img width="975" height="340" alt="image" src="https://github.com/user-attachments/assets/244707a4-e851-4cb3-83ce-248011390af3" />
 
 ## 6. Synthesis
 
 ### 6.1 RTL Schematic
+<img width="561" height="971" alt="image" src="https://github.com/user-attachments/assets/0e19f675-ade8-4982-9f84-5e8367164e1c" />
 
-### 6.2 Resource Utilization
+<img width="986" height="546" alt="image" src="https://github.com/user-attachments/assets/68d9d1f8-96e2-44e2-839f-ebd21ce1b54d" />
+
+
